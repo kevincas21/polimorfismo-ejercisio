@@ -1,0 +1,16 @@
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\bin\Debug\net5.0\libro.exe
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\bin\Debug\net5.0\libro.deps.json
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\bin\Debug\net5.0\libro.runtimeconfig.json
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\bin\Debug\net5.0\libro.runtimeconfig.dev.json
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\bin\Debug\net5.0\libro.dll
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\bin\Debug\net5.0\ref\libro.dll
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\bin\Debug\net5.0\libro.pdb
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.csprojAssemblyReference.cache
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.AssemblyInfoInputs.cache
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.AssemblyInfo.cs
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.csproj.CoreCompileInputs.cache
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.dll
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\ref\libro.dll
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.pdb
+C:\Users\user\desktop\kevin\sii\ejercisio\libros\libro\obj\Debug\net5.0\libro.genruntimeconfig.cache
